@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665689813 source:c:\users\furkan\desktop\codeblocks c\algo2.3\main.cpp
+	<iostream>
+	<algorithm>
+	<climits>
+
