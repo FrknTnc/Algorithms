@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666044194 source:c:\users\furkan\desktop\codeblocks c\algo3.1\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<time.h>
+
