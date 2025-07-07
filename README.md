@@ -1,4 +1,4 @@
-My Algorithms Tutorial Videos:
+My Algorithm Tutorial Videos:
 
 -Merge and MergeSort : 
 https://youtu.be/C3nh3s5Y4fY
